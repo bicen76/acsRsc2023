@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rsc2023</string>
+    <string name="main_screen_title">Main Screen</string>
+    <string name="sort_by_last_name">Sort</string>
+    <string name="route_detail_title">Routes Screen</string>
+    <string name="route_data_template">Type %1$s Name %2$s</string>
+</resources>
